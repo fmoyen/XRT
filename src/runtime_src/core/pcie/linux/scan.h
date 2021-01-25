@@ -32,6 +32,7 @@
 #define ADVANTECH_ID    0x13fe
 #define AWS_ID          0x1d0f
 #define ARISTA_ID       0x3475
+#define IBM_ID          0x1014
 #define INVALID_ID      0xffff
 
 #define FDT_BEGIN_NODE  0x1
